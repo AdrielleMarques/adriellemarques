@@ -2,6 +2,7 @@
 
 - 🌱 Estou estudando HTML, CSS, JavaScript and Python. 
 - 😄 Pronouns: ela/dela.
+- 📬 Contate-me pelo e-mail: adrielle.marques3030@gmail.com
 
 <div align="center">
   <a href="https://github.com/adriellemarques">
@@ -18,7 +19,6 @@
   ##
   
 <div> 
-  <a href = "mailto:adrielle.marques3030@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adrielle-marques-773268142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
