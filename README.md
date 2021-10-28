@@ -1,4 +1,4 @@
-### Olá! Eu sou a Adrielle Marques 👋
+### Olá! Eu sou a Adrielle Marques 👋🏽
 
 - 🌱 Estou estudando HTML, CSS, JavaScript e Python. 
 - 😄 Pronomes: Ela/Dela.
