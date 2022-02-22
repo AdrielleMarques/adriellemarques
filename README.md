@@ -1,8 +1,10 @@
 ### Olá! Eu sou a Adrielle Marques 👋🏽
 
 I’m currently studying front-end;
+
 📚 Javascript, HTML & CSS 📚
-- 📬 E-mail: adrielle.marques3030@gmail.com
+
+📬 E-mail: adrielle.marques3030@gmail.com
 
 ## 
 
