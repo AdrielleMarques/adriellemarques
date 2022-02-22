@@ -2,7 +2,7 @@
 
 I’m currently studying front-end;
 <br>
-📚 Javascript, HTML & CSS 📚
+📚 Javascript, HTML, CSS & PYTHON 📚
 <br>
 
 
