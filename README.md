@@ -4,8 +4,7 @@ I’m currently studying front-end;
 <br>
 📚 Javascript, HTML & CSS 📚
 <br>
-📬 E-mail: adrielle.marques3030@gmail.com
-<br>
+
 
 <div align="center">
   <a href="https://github.com/adriellemarques">
