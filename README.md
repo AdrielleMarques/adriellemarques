@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Adrielle Marques 👋🏽
 
-- 🌱 Estou estudando HTML, CSS, JavaScript e Python. 
-- 😄 Pronomes: Ela/Dela.
-- 📬 Contate-me pelo e-mail: adrielle.marques3030@gmail.com
+I’m currently studying front-end;
+📚 Javascript, HTML & CSS 📚
+📬 E-mail: adrielle.marques3030@gmail.com
 
 ## 
 
