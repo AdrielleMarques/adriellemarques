@@ -22,7 +22,7 @@ I’m currently studying front-end;
   ##
   
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/adrielle-marques-773268142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:isamaragsantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adrielle-marques-773268142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:adrielle.marques3030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
    ![Snake animation](https://github.com/adriellemarques/adriellemarques/blob/output/github-contribution-grid-snake.svg)
  
