@@ -12,6 +12,7 @@ I’m currently studying ;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriellemarques&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Adrielle-Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
   <img align="center" alt="Adrielle-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Adrielle-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Adrielle-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
