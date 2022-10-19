@@ -5,11 +5,12 @@ I’m currently studying ;
 📚 JAVA, PYTHON JAVASCRIPT, HTML & CSS 📚
 <br>
 
-
+<!--
 <div align="center">
   <a href="https://github.com/adriellemarques">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adriellemarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriellemarques&layout=compact&langs_count=7&theme=dracula"/>
+!-->
 </div>
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Adrielle-Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
