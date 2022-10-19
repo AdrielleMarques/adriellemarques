@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Adrielle Marques 👋🏽
 
-I’m currently studying front-end;
+I’m currently studying ;
 <br>
-📚 Javascript, HTML, CSS & PYTHON 📚
+📚 JAVA, PYTHON JAVASCRIPT, HTML & CSS 📚
 <br>
 
 
