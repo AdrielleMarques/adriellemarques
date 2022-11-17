@@ -2,7 +2,7 @@
 
 Atualmente tenho estudado:
 <br>
-📚 JAVA, PYTHON, JAVASCRIPT, HTML & CSS 
+Java, Python, Javascript, HTML & CSS. 
 <br>
 
 <!--
