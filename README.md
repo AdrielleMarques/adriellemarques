@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Adrielle Marques 👋🏽
 
-I’m currently studying ;
+Atualmente tenho estudado:
 <br>
-📚 JAVA, PYTHON JAVASCRIPT, HTML & CSS 📚
+📚 JAVA, PYTHON, JAVASCRIPT, HTML & CSS 
 <br>
 
 <!--
