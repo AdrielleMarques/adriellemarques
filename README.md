@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Adrielle Marques 👋🏽
 
-Atualmente tenho estudado:
+Desenvolvedora Full Stack. Meus principais conhecimentos são:
 <br>
-Java, Python, Javascript, HTML & CSS. 
+Java, Oracle, SQL, React, Python e JavaScript. 
 <br>
 
 <!--
