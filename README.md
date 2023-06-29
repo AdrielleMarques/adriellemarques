@@ -5,6 +5,11 @@ Desenvolvedora Full Stack. Meus principais conhecimentos são:
 Java, Oracle, SQL, React, Python e JavaScript. 
 <br>
 
+
+Full Stack Developer. My main skills are:
+<br>
+Java, Oracle, SQL, React, Python and JavaScript.
+
 <!--
 <div align="center">
   <a href="https://github.com/adriellemarques">
