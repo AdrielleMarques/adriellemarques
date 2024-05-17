@@ -1,22 +1,18 @@
-### Olá! Eu sou a Adrielle Marques 👋🏽
 
-Desenvolvedora Full Stack. Meus principais conhecimentos são:
-<br>
-Java, Oracle, SQL, React, Python e JavaScript. 
-<br>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
+I'm **Adrielle**, a software developer from São Paulo, Brasil.
 
-Full Stack Developer. My main skills are:
-<br>
-Java, Oracle, SQL, React, Python and JavaScript.
+I'm primarily interested in **full-stack development** and currently work as a
+software developer intern at **@Sankhya**.
 
-<!--
-<div align="center">
-  <a href="https://github.com/adriellemarques">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adriellemarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriellemarques&layout=compact&langs_count=7&theme=dracula"/>
-!-->
-</div>
+My main stacks are Java, Javascript, React.js, Python, SQL, Oracle and more
+
+I also really like Generative AI, Machine Learning, Cloud and following the evolution of science.
+
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/adrielle-marques-773268142/)
+
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Adrielle-Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
   <img align="center" alt="Adrielle-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -27,10 +23,4 @@ Java, Oracle, SQL, React, Python and JavaScript.
 </div>
  
   ##
-  
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/adrielle-marques-773268142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:adrielle.marques3030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-   ![Snake animation](https://github.com/adriellemarques/adriellemarques/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
