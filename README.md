@@ -1,12 +1,12 @@
 
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Hi there! 👩🏾‍💻
 
 I'm **Adrielle**, a software developer from São Paulo, Brasil.
 
 I'm primarily interested in **full-stack development** and currently work as a
 software developer intern at **@Sankhya**.
 
-My main stacks are Java, Javascript, React.js, Python, SQL, Oracle and more
+My main stacks are Java, Javascript, React.js, Python, SQL, Oracle and more.
 
 I also really like Generative AI, Machine Learning, Cloud and following the evolution of science.
 
