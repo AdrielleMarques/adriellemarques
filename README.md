@@ -1,7 +1,7 @@
 
 ### Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" width="25" height="25" />
 
-I'm **Adrielle**, a software developer from São Paulo, Brasil.
+I'm **Adrielle**, a software developer living in São Paulo, Brasil.
 
 I'm primarily interested in **full-stack development** and currently work as a
 software developer intern at **@Sankhya**.
