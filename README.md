@@ -16,6 +16,7 @@ I also really like Generative AI, Machine Learning, Cloud and following the evol
   <div style="display: inline_block" align=""><br>
   <img align="center" alt="Adrielle-Java" height="20" width="30" src="https://www.svgrepo.com/show/184143/java.svg">
   <img align="center" alt="Adrielle-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Adrielle-C" height="30" width="30" src="https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png&color=000000">
   <img align="center" alt="Adrielle-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Adrielle-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Adrielle-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
