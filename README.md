@@ -3,20 +3,22 @@
 
 I'm **Adrielle**, a software developer living in Brasília, Brasil.
 
-My main stacks are Java, Javascript, React.js, Python, SQL, Oracle and more.
+I'm a Software Engineer with experience as a Full-Stack Developer, specializing in Java and Python development. I enjoy designing scalable applications, building clean architectures, and creating solutions that bridge software engineering with artificial intelligence.
 
-I also really like Generative AI, Machine Learning, Cloud and following the evolution of science.
+Currently, I'm expanding my academic and technical expertise in Natural Language Processing (NLP), with a strong interest in:
+
+𔓘 Transformer architectures  
+𔓘 Encoder and decoder models  
+𔓘 Tokenization techniques  
+𔓘 Machine Learning  
+𔓘 Text Classification  
+𔓘 Representation Learning  
+𔓘 Fine-tuning Large Language Models (LLMs)
+
+I'm *always* excited to collaborate on projects involving Software Engineering, Artificial Intelligence, and Natural Language Processing.
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/adrielle-marques-773268142/)
-
-  <div style="display: inline_block" align=""><br>
-  <img align="center" alt="Adrielle-Java" height="20" width="30" src="https://www.svgrepo.com/show/184143/java.svg">
-  <img align="center" alt="Adrielle-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Adrielle-C" height="30" width="30" src="https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png&color=000000">
-  <img align="center" alt="Adrielle-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Adrielle-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Adrielle-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
  
